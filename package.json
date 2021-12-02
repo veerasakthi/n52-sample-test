@@ -1,0 +1,20 @@
+{
+  "name": "96e72889c534443caefd89000b2e69b5-8ce4b5a95c11bb6105f819df4221ef84e88574e1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.2",
+    "aws-sdk": "^2.1041.0",
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "lambdafs": "^2.0.3",
+    "path": "^0.12.7"
+  }
+}
